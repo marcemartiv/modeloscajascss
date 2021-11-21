@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.contenedor {
+    position: absolute;
+    margin-left: 78%;
+    margin-top: -5%;
+   
+    
+}
+.item {
+    
+    position: relative;
+    left: 270px;
+    top: 80px;
+}
+.button {
+    background-color: #e7e7e7; 
+    border: none;
+    color: rgb(36, 31, 31);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 35% 2px;
+    cursor: pointer;
+    padding-left: 0;
+    padding-right: 0;
+    width: 100%;
+}

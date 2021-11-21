@@ -1,0 +1,130 @@
+body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+.bandera {
+    border: black 2px solid;
+    background-color: white;
+    width: 500px;
+    height: 300px;
+    margin: 20px;
+    float: left;
+}
+.espana_a {
+    background-color: red;
+    height: 25%;
+}
+.espana_b {
+    background-color: yellow;
+    height: 50%;
+}
+.espana_c {
+    background-color: red;
+    height: 25%;
+}
+.dinamarca_a {
+    background-color: red;
+    width: 40%;
+    height: 47%;
+    float: left;
+}
+.dinamarca_b {
+    background-color: red;
+    margin-top: 1px;
+    width: 57%;
+    height: 47%;
+    float: right;
+}
+.dinamarca_c {
+    background-color: red;
+    margin-top: 18px;
+    width: 40%;
+    height: 47%;
+    float: left;
+}
+.dinamarca_d {
+    background-color: red;
+    margin-top: 18px;
+    width: 57%;
+    height: 47%;
+    float: right;
+}
+
+.emi_a {
+    background-color: red;
+    width: 25%;
+    height: 100%;
+    float: left;
+    
+}
+.emi_b {
+    background-color: green;
+   
+    width: 75%;
+    height: 30%;
+    float: right;
+    
+}
+.emi_c {
+    background-color: white;
+    
+    width: 75%;
+    height: 40%;
+    float: left;
+}
+.emi_d {
+    background-color: black;
+    
+    width: 75%;
+    height: 30%;
+    float: right;
+}
+.jap1 {
+    width: 10rem;
+    height: 10rem;
+    border-radius: 50%;
+    background: red;
+    
+    justify-content: center;
+    align-items: center;
+    margin:50px auto;
+    padding: 3%
+  
+}
+.titulo1 {
+    text-align: left;
+    font-weight: bold;
+    font-size: 30px;
+}
+.titulo2 {
+    text-align: left;
+    font-weight: bold;
+    font-size: 30px;
+}
+.titulo3 {
+    text-align: left;
+    font-weight: bold;
+    font-size: 30px;
+}
+.titulo4 {
+    padding: 10px;
+    text-align: left;
+    font-weight: bold;
+    font-size: 30px;
+}
+.button {
+    background-color: #e7e7e7; 
+    border: none;
+    color: rgb(36, 31, 31);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 38px 2px;
+    cursor: pointer;
+    padding-left: 0;
+    padding-right: 0;
+    width: 100%;
+}

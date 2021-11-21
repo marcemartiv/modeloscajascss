@@ -1,0 +1,44 @@
+
+body {
+margin: 0;
+padding: 0;
+}
+ul.menu {
+list-style: none;
+margin: 0;
+padding: 0;
+}
+ul.menu li {
+background: olive;
+box-sizing: border-box;
+float: left;
+width: 25%;
+}
+ul.menu li a {
+color: #FFF;
+display: block;
+padding: 10px;
+text-decoration: none;
+}
+ul.menu li a:hover {
+background: #000;
+}
+.parrafoabajo {
+    
+    clear: both;
+}
+.button {
+    background-color: #e7e7e7; 
+    border: none;
+    color: rgb(36, 31, 31);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 38px 2px;
+    cursor: pointer;
+    padding-left: 0;
+    padding-right: 0;
+    width: 100%;
+}
